@@ -1,0 +1,181 @@
+{
+    "Users":[
+        {
+            "id":1,
+            "Name":"Om Kamble",
+            "Email":"omkamble@gmail.com",
+            "Contact":9632587410,
+            "Club":"",
+            "Plan":"",
+            "Username":"Om123",
+            "Password":"Om@123"        
+        }
+    ],
+    "Clubs":[
+        {
+            "id":1,
+            "Club":"Power House, Kothrud",
+            "City":"Pune",
+            "Area":"Kothrud",
+            "Image1":"https://th.bing.com/th/id/R.540abb21db3233f3b557eef17a8b8b4a?rik=aj84e0Qoip0ItQ&riu=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2016%2f10%2fGym-HD-Background-.jpg&ehk=gFDF4wdIAjzQk8lkZ8BVraUl9Z5vFc%2feAignb5pfHgs%3d&risl=&pid=ImgRaw&r=0",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+        },
+        {
+            "id":2,
+            "Club":"Power House, Kalyani Nagar",
+            "City":"Pune",
+            "Area":"Kalyani Nagar",
+            "Image1":"https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/4f99581a092401e01aa8c52438def8ac-full.jpg",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+        },
+        {
+            "id":3,
+            "Club":"Power House, Worli",
+            "City":"Mumbai",
+            "Area":"Worli",
+            "Image1":"https://discoverlaos.today/img/hotel/79fd55a0f2bc43edbaa95fa5ff064352.jpg?p=original",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":4,
+            "Club":"Power House, Juhu",
+            "City":"Mumbai",
+            "Area":"Juhu",
+            "Image1":"https://q-cf.bstatic.com/images/hotel/max1024x768/204/204169075.jpg",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":5,
+            "Club":"Power House, Koramangla",
+            "City":"Bangalore",
+            "Area":"Koramangla",
+            "Image1":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":6,
+            "Club":"Power House, Electronic City",
+            "City":"Bangalore",
+            "Area":"Electronic City",
+            "Image1":"https://th.bing.com/th/id/R.2c8712f429ba959d3263e9f4a4f58b88?rik=0YY90XhAA62qqA&riu=http%3a%2f%2fphotos.55places.com%2fareas%2fphotos%2foriginal%2fcommunity%2ffitness_room_(2).jpg&ehk=sDJPyubs0eEGbv70smox3kN3A2Arv%2fhtAYrms98pHpM%3d&risl=&pid=ImgRaw&r=0",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":7,
+            "Club":"Power House, South Delhi",
+            "City":"Delhi",
+            "Area":"South Delhi",
+            "Image1":"https://res.cloudinary.com/luxuryp/images/w_1920,c_limit,f_auto,q_auto/adwiy9rn21yn5w5o4gvt/450palm106-36-edit",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":8,
+            "Club":"Power House, Vasant Vihar",
+            "City":"Delhi",
+            "Area":"Vasant Vihar",
+            "Image1":"https://humphreys.com/wp-content/uploads/2015/12/Humphreys-Partners-Architects-The-Standard-at-Gainesville-Gym.jpg",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":9,
+            "Club":"Power House, Science City Road",
+            "City":"Ahmedabad",
+            "Area":"Science City Road",
+            "Image1":"https://i.pinimg.com/736x/6a/7a/c4/6a7ac447d8b86b93d4618f5cf27e3b99.jpg",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    },
+        {
+            "id":10,
+            "Club":"Power House, Prahlad Nagar",
+            "City":"Ahmedabad",
+            "Area":"  Prahlad Nagar",
+            "Image1":"https://i2.wp.com/thepointsguy.com/wp-content/uploads/2018/12/four-seasons-hotel-seoul_photo-via-booking-dot-com.jpg?fit=1280%2C814px&ssl=1",
+            "Image2":"https://wallsdesk.com/wp-content/uploads/2016/10/Gym-Background-1-1.jpg",
+            "Image3":"https://i.travelapi.com/hotels/2000000/1340000/1330400/1330388/6bab4bc3_z.jpg",
+            "Image4":"https://s3.amazonaws.com/trebach-realty/listing-media/primary/trebachrealty-53eb35c8-014d-494d-9887-55c3121b02bc-4c1f8b99-14ef-4241-b5c2-95b7c87aafd8.jpg"
+	    }   
+    ],
+    "Plans":[
+        {
+            "id":1,
+            "Plan":"Monthly Plan",
+            "Duration":"30 Days",
+            "Price":1500,
+            "Extra":"No Extra Activities Included"
+        },
+        {
+            "id":2,
+            "Plan":"Quarterly Plan",
+            "Duration":"3 Months",
+            "Price":4000,
+            "Extra":"Steam Bath, Yoga Session"
+        },
+        {
+            "id":3,
+            "Plan":"Half Yearly Plan",
+            "Duration":"6 Months",
+            "Price":6000,
+            "Extra":"Steam Bath, Yoga Session, Zumba, Kick Boxing"
+        },
+        {
+            "id":4,
+            "Plan":"Yearly Plan",
+            "Duration":"12 Months",
+            "Price":10000,
+            "Extra":"All Extra Activities Included"
+        },
+        {
+            "id":5,
+            "Plan":"Life Membership Plan",
+            "Duration":"Lifetime",
+            "Price":150000,
+            "Extra":"All Extra Activities Included"
+        },
+        {
+            "id":6,
+            "Plan":"Premium Yoga Plan",
+            "Duration":"3 Months",
+            "Price":3000,
+            "Extra":"Extra Activities Not Included"
+        },
+        {
+            "id":7,
+            "Plan":"Kick Boxing",
+            "Duration":"3 Months",
+            "Price":3000,
+            "Extra":"Extra Activities Not Included"
+        },
+        {
+            "id":8,
+            "Plan":"Group Cycling",
+            "Duration":"3 Months",
+            "Price":3000,
+            "Extra":"Extra Activities Not Included"
+        },
+        {
+            "id":9,
+            "Plan":"Mixed Martial Arts",
+            "Duration":"3 Months",
+            "Price":3000,
+            "Extra":"Extra Activities Not Included"
+        }
+    ]
+}
